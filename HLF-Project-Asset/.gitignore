@@ -1,0 +1,6 @@
+note-hasin.txt
+errors.txt
+working.txt
+api-server/node_modules
+blockchain-network/test-network/organizations/peerOrganizations
+blockchain-network/test-network/organizations/ordererOrganizations
