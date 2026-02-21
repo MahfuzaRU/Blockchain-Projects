@@ -1,0 +1,6 @@
+api-server/node_modules
+blockchain-network/test-network/organizations/peerOrganizations
+blockchain-network/test-network/organizations/ordererOrganizations
+# Ignore build folders
+blockchain-network/bin/
+blockchain-network/data/
