@@ -1,0 +1,11 @@
+
+# Hyperledger Fabric binaries
+bin/
+*.tar.gz
+*.zip
+
+# Docker data
+data/
+
+HLF-Project-Asset-Transfer/blockchain-network/bin/
+HLF-Project-Asset-Transfer/blockchain-network/data/
